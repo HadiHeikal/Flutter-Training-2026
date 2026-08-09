@@ -10,6 +10,11 @@ Prepared & Instructed by **Eng. Hadi Heikal**
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![BLoC](https://img.shields.io/badge/BLoC-000000?style=for-the-badge&logo=flutter&logoColor=white)](https://bloclibrary.dev)
+[![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/dio)
+[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/REST)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 
 </div>
 
