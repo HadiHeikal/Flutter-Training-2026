@@ -195,7 +195,7 @@ flutter run
 
 **Eng. Hadi Heikal** — Flutter Developer | Computer Science Graduate
 
-- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/hadi-heikal-b113291b5/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hadi-heikal-b113291b5/)
 
 ---
 
