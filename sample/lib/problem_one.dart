@@ -1,6 +1,6 @@
 // Problem: Two Sum
 //
-// Given a list of integers `nums` and an integer `target`, return the
+// Given a list of integers `nuSms` and an integer `target`, return the
 // indices of the two numbers such that they add up to `target`.
 // Assume exactly one solution exists, and you may not use the same
 // element twice.
